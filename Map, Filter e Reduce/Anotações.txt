@@ -1,0 +1,38 @@
+Map
+
+mapping function 
+
+- cria um novo array
+- não modifica o array original
+- realiza as operações em ordem
+
+sintaxe
+
+array.map
+callback
+thisArg(opciponal) 
+
+map vs forEach
+
+- valor de retorno
+- considere se o array auxiliar será necessario 
+
+filter 
+
+colocar todo o array dentro de um filtro e apenas os item que pacerem pela condição
+serao retornados em um NOVO array
+
+sintaxe
+
+array.filter(callback, thisArg)
+
+
+reduce
+executa uma função em todos os elementos do array, retornando um valor único
+
+
+sintaxe
+
+array.reduce(callback, initialValue)
+
+
