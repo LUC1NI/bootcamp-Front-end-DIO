@@ -1,0 +1,23 @@
+map 
+.set adiciona
+.get ver valor
+- dpois de delatetado volta undifind
+- maps podem ter chaves de qualquer tipo
+- possui a propiedade length
+- ultilazado qunado o valor das chaves e deconheicdo
+- os valores tem o mesmo tipo
+
+set
+
+apenas armazena valor unicos
+
+.add adiciona
+.has ver
+
+diferenca entre array
+
+ao inves dre length e size 
+nao possui map,filter etc 
+
+possui valores unicos
+
