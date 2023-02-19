@@ -1,0 +1,52 @@
+Não analisar ortografia
+
+TIPOS DE ERRO
+
+ECMAScript Error
+- mensagem 
+- Nome
+- Linha
+- Call Stack
+
+DOMException
+
+Erros relacionados ao Document Object Model (DOM)
+
+Tratando Erros
+
+Throw
+se vc usa o trhow ele retorna um erro
+
+Try catch
+pode manipular erro dentro do catch
+
+catch(e) {
+	throw e;
+}
+
+retorna erro vermelho com X no console
+
+
+
+Finally
+instrucao que vai ser chamada indenpendete de erro
+vai executar mesmo se estiver certo.
+
+não é obrigatorio usar o finally.
+
+
+Criando Error personalizado
+- manipular objeto error
+
+Error
+aceita os paramentros (message, fileName, lineNumber) 
+fileName linenumber podem nao funcionar em alguns browsers
+geralmente se usa so o message.
+
+- Pode ter nome
+
+.stack especifica o erro
+
+
+
+
