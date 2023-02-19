@@ -1,0 +1,53 @@
+Assíncrono
+"algo que nao ocorre ou não se efetiva ao mesmo tempo."
+
+o js roda de maneira síncrona
+uma coisa apos a outra
+
+asincrona faz mais coisas ao mesmo tempo 
+
+Promises
+
+objeto de processamento assíncrono
+
+
+inicialmenter seu valor é desconhecido e depois entao ela pode ser resolvida ou rejeitada.
+
+
+pode ter 3 estados
+
+pending = pendente
+ 
+Fulfield 
+
+rejected.
+
+estrutura 
+new Promise()
+
+manipulação 
+
+await myPromise
+
+
+Async/await
+
+funcoes Assíncrono precisam dessas duas palavras chaves
+await para o codigo espera a promise resolver
+
+
+APIs
+
+é uma forma de intermediar os resultados do back-end com o que é apresentado
+mo front-end    ACESSA por meio de URLs
+
+
+FETCH
+(url, options)
+
+retorna promise
+tenque converter a resposta para .json
+post manda dados para serem gravados on banco de dados
+
+
+
