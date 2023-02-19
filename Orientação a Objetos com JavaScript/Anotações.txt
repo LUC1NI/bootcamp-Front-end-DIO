@@ -1,0 +1,23 @@
+os progrmas sao objetos 
+pilares:
+- herança
+- polimorfismo
+- encapslamento
+- abstração
+
+Protótipos 
+objetos em js herdam propiedades e métodos de um prototype
+
+cadeia procura ate chegar no null
+
+Classes
+Syntatic sugar:uma sintaxe feita para facilitar a escrita 
+
+javascript não possui classes nativamente. Todas as clases são objetos de herança
+
+- construtor = contruir classe se parametros ele passa
+- getter e setter = get retorna tipo set tipo do outro valor
+- super() = manda pra funcao pai os parametros
+- método = sobscreve métodos 
+
+
